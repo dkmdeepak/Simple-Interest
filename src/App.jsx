@@ -6,6 +6,7 @@ function App() {
     <>
       <div>
         Simple Interest
+        <input type="text" />
       </div><br />
     </>
   )
