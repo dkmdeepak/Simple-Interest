@@ -1,6 +1,6 @@
 React Practice Repository
 
-Welcome to my React  Practice Repository!    This repository is dedicated to showcasing my hands-on work and experiments with React. Here, you'll find a collection of projects and exercises that demonstrate my growing proficiency with React, as well as other related technologies.
+Welcome to my React  Practice Repository!    This repository is dedicated to showcasing  my  hands-on work and experiments with React. Here, you'll find a collection of projects and exercises that demonstrate my growing proficiency with React, as well as other related technologies.
 📂 Projects Included
 
     [Project Name]: A brief description of the project, including its purpose and key features.
